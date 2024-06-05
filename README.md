@@ -11,3 +11,5 @@ It is a Tableau Dashboard displaying the analysis of flights from San Francisco.
 It is a Tableau Dashboard displaying the analysis of Space Missions.
 ## 6. Voice Bubble
 It is a python code displaying a screen having a bubble which can be moved using vocal instructions or the movement buttons on the screen.
+## 7. Sample Superstore Report
+It is a Power BI dashboard displaying the analysis of the superstore sales.
